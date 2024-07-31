@@ -1,4 +1,4 @@
-name:Selenium IDE CI
+name: Selenium IDE CI
 
 on: 
   push:
